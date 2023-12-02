@@ -82,6 +82,11 @@ Welcome to my GitHub space where code meets creativity! 💻✨
 ### **Coding Stats:**
 
 <!--START_SECTION:waka-->
+
+```text
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 ### **GitHub Stats:** 
