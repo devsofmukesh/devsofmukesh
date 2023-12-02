@@ -82,9 +82,6 @@ Welcome to my GitHub space where code meets creativity! 💻✨
 ### **Coding Stats:**
 
 <!--START_SECTION:waka-->
-
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=devsofmukesh&api_key=)
-
 <!--END_SECTION:waka-->
 
 ### **GitHub Stats:** 
