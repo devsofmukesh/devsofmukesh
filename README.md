@@ -2,7 +2,7 @@
 
 Welcome to my GitHub space where code meets creativity! 💻✨
 
-🔍 About Me:
+🔍 **About Me:**
 
 - 🌱 Passionate Data Scientist and technology enthusiast.
   
@@ -10,7 +10,7 @@ Welcome to my GitHub space where code meets creativity! 💻✨
   
 - 🤖 Highly focused on experimenting and developing AI products.
   
-- 🧠 Constantly learning and taking on challenges in the world of data and AI
+- 🧠 Constantly learning and taking on challenges in the world of data and AI.
   
 - 🎮 In my downtime, I love immersing myself in the world of gaming.
   
@@ -18,7 +18,7 @@ Welcome to my GitHub space where code meets creativity! 💻✨
 
 ### **Listening SoundCloud**🎧
 
-[<img width="100px" src="/gifs/soundcloud.gif" alt="Favourtie Song" width="350" />]([https://soundcloud.com/weareriot/cantstop?in=weareriot/sets/remixes](https://soundcloud.com/awaltheawal/james-meyers-i-am-the-king-awal-remix-1?si=a87dc756c8ac4fe5954abc56a920818e&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing))
+[<img width="100px" src="/gifs/soundcloud.gif" alt="Favourtie Song" width="350" />](https://soundcloud.com/awaltheawal/james-meyers-i-am-the-king-awal-remix-1?si=c956479cd1c14b319284b9ad48a47b4c&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
 
 ### **Connect With Me**:
 
