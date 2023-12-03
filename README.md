@@ -103,10 +103,10 @@ XML        0 secs          ░░░░░░░░░░░░░░░░░�
 
 <p align="left">
     <a href="https://github.com/devsofmukesh/devsofmukesh">
-    <img width="445.5px" height="153px" src="https://github-readme-stats.vercel.app/api?username=devsofmukesh&hide=stars&show_icons=true&hide_border=true&theme=transparent" alt="GitHub Stats Card">
+    <img width="440px" height="153px" src="https://github-readme-stats.vercel.app/api?username=devsofmukesh&hide=stars&show_icons=true&hide_border=true&theme=transparent" alt="GitHub Stats Card">
     </a>
     <a href="https://github.com/devsofmukesh/devsofmukesh">
-    <img width="445.5px" height="153px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devsofmukesh&layout=compact&hide_border=true&theme=transparent" alt="Languages Used Card">
+    <img width="440px" height="153px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devsofmukesh&layout=compact&hide_border=true&theme=transparent" alt="Languages Used Card">
     </a>
 </p>
 
