@@ -16,23 +16,6 @@ Welcome to my GitHub space where code meets creativity! 💻✨
   
 - 💪 Regularly hitting the gym to stay active and energized.
 
-### **Listening SoundCloud**🎧
-
-[<img width="100px" src="/gifs/soundcloud.gif" alt="Favourtie Song" width="350" />](https://soundcloud.com/awaltheawal/james-meyers-i-am-the-king-awal-remix-1?si=c956479cd1c14b319284b9ad48a47b4c&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
-
-### **Connect With Me**:
-
-[<img align="left" alt="GMail" width="26px" src="social/gmail.svg" />](devsofmukesh@gmail.com)
-
-[<img align="left" alt="LinkedIn" width="26px" src="social/linkedin.svg" />](https://www.linkedin.com/in/mk09/)
-
-[<img align="left" alt="Outlook" width="26px" src="social/outlook.svg" />](devsofmukesh@hotmail.com)
-
-[<img align="left" alt="Twitter" width="26px" src="social/twitter.svg" />](https://twitter.com/devsofmukesh)
-
-
-<br />
-
 ### **Languages and Tools**:
 
 [<img align="left" alt="Airflow" width="26px" src="tools-&-languages/airflow.png" />](https://airflow.apache.org/docs/stable/)
@@ -62,6 +45,20 @@ Welcome to my GitHub space where code meets creativity! 💻✨
 [<img align="left" alt="GitHub" width="26px" src="tools-&-languages/github.svg" />](https://docs.github.com/en)
 
 [<img align="left" alt="Terminal" width="26px" src="tools-&-languages/terminal.svg" />](https://docs.microsoft.com/en-us/windows/terminal/)
+
+<br />
+
+### **Connect With Me**:
+
+[<img align="left" alt="GMail" width="26px" src="social/gmail.svg" />](devsofmukesh@gmail.com)
+
+[<img align="left" alt="LinkedIn" width="26px" src="social/linkedin.svg" />](https://www.linkedin.com/in/mk09/)
+
+[<img align="left" alt="Outlook" width="26px" src="social/outlook.svg" />](devsofmukesh@hotmail.com)
+
+[<img align="left" alt="Twitter" width="26px" src="social/twitter.svg" />](https://twitter.com/devsofmukesh)
+
+[<img align="left" alt="Medium" width="26px" src="social/medium.svg" />](https://medium.com/@devsofmukesh)
 
 <br />
 
