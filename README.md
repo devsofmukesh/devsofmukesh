@@ -73,28 +73,37 @@ Welcome to my GitHub space where code meets creativity! 💻✨
 </br>
 
 <p align="center">
-    <a href="https://wakatime.com/@018c2922-6f10-4286-bdc9-b5c214a1ed36"><img src="https://wakatime.com/badge/user/018c2922-6f10-4286-bdc9-b5c214a1ed36.svg" alt="Total time coded since Dec 2 2023" /></a>
-    <a href="https://img.shields.io/badge/build%20type-markdown-blue"><img src="https://img.shields.io/badge/build%20type-markdown-blue" alt="build type"></a>
-    <a href="https://komarev.com/ghpvc/?username=devsofmukesh"><img src="https://komarev.com/ghpvc/?username=devsofmukesh" alt="visitors"></a>
-    <a href="https://github.com/devsofmukesh/devsofmukesh"><img src="https://img.shields.io/github/downloads/devsofmukesh/devsofmukesh/total" alt="downloads"></a>
-  <a href="https://github.com/devsofmukesh/devsofmukesh"><img src="https://img.shields.io/github/commit-activity/m/devsofmukesh/devsofmukesh" alt="commit activity"></a>
+    <a href="https://wakatime.com/@018c2922-6f10-4286-bdc9-b5c214a1ed36">
+    <img src="https://wakatime.com/badge/user/018c2922-6f10-4286-bdc9-b5c214a1ed36.svg" alt="total time coded" />
+    </a>
+    <a href="https://komarev.com/ghpvc/?username=devsofmukesh">
+    <img src="https://komarev.com/ghpvc/?username=devsofmukesh" alt="profile views" />
+    </a>
+    <a href="https://github.com/devsofmukesh?tab=followers">
+    <img src="https://img.shields.io/github/followers/devsofmukesh?logo=github&style=plastic" alt="followers">
+    </a>
+    <a href="https://github.com/devsofmukesh/devsofmukesh">
+    <img src="https://img.shields.io/github/downloads/devsofmukesh/devsofmukesh/total" alt="total downloads">
+    </a>
+    <a href="https://github.com/devsofmukesh/devsofmukesh">
+    <img src="https://img.shields.io/github/commit-activity/m/devsofmukesh/devsofmukesh" alt="commit activity">
+    </a>
 </p>
 
 ### **Coding Stats:**
 
 <!--START_SECTION:waka-->
-
-```text
-No activity tracked
-```
-
 <!--END_SECTION:waka-->
 
 ### **GitHub Stats:** 
 
 <p align="left">
-    <a href="https://github.com/devsofmukesh/devsofmukesh"><img width="445.5px" height="153px" src="https://github-readme-stats.vercel.app/api?username=devsofmukesh&hide=stars&show_icons=true&hide_border=true&theme=tokyonight" alt="build type"></a>
-    <a href="https://github.com/devsofmukesh/devsofmukesh"><img height="153px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devsofmukesh&layout=compact" alt="visitors"></a>
+    <a href="https://github.com/devsofmukesh/devsofmukesh">
+    <img width="445.5px" height="153px" src="https://github-readme-stats.vercel.app/api?username=devsofmukesh&hide=stars&show_icons=true&hide_border=true&theme=tokyonight" alt="build type">
+    </a>
+    <a href="https://github.com/devsofmukesh/devsofmukesh">
+    <img width="445.5px" height="153px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devsofmukesh&layout=compact" alt="visitors">
+    </a>
 </p>
 
 </details>
