@@ -92,7 +92,8 @@ Welcome to my GitHub space where code meets creativity! 💻✨
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+HTML         22 mins         ████████████████████░░░░░   79.95 %
+JavaScript   5 mins          █████░░░░░░░░░░░░░░░░░░░░   20.05 %
 ```
 
 <!--END_SECTION:waka-->
